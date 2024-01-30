@@ -48,5 +48,3 @@ AsconXofa, except `asm_rv32_campos`, which only implements Ascon128a.
 The benchmarking framework that was created for this thesis and the performance
 results are available
 [here](https://gitlab.tugraz.at/247B03DB02C337C2/lwc-cryptobench).
-
-
